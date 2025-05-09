@@ -9,6 +9,5 @@ An AI-powered chatbot for Sri Lanka travel information with dynamic learning cap
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/sri-lanka-tourism-chatbot.git
 pip install -r requirements.txt
 python src/SriLankaTravelBot.py

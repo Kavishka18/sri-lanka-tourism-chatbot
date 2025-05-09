@@ -1,0 +1,18 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi","Hii","hiiiii", "Hello", "Hey", "Is anyone there?", "Good day"],
+      "responses": ["Hello! Welcome to Sri Lanka Tourism Chatbot. How can I assist you today?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye","i have learned so much bye","thank you for your information","thank you very much"],
+      "responses": ["Goodbye! Have a great trip in Sri Lanka!"]
+    }
+    
+  ]
+}
+
+
+
